@@ -1,0 +1,10 @@
+<odoo>
+    <record id="action_open_url" model="ir.actions.act_url">
+        <field name="name">Nuevo ticket</field>
+        <field name="url">https://zitycard.com/soporte-odoo</field>
+        <field name="target">new</field>
+    </record>
+
+    <menuitem id="menu_open_url" name="Soporte Zitycard" action="action_open_url"
+              web_icon="zitycard_helpdesk,static/description/icon.png" sequence="998"/>
+</odoo>
