@@ -1,6 +1,6 @@
 {
    'name': 'Zitycard Database Backup',
-    'version': '17.0.1.0',
+    'version': '18.0.1.0',
     'category': 'Tools',
     'summary': 'Administrar y programar copias de seguridad de bases de datos para instancias de Odoo',
     'description': """
